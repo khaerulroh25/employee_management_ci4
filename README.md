@@ -24,7 +24,7 @@ A simple employee management application built using CodeIgniter 4 and MySQL.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/khaerulroh25/employee_managemet_ci4.git
+git clone https://github.com/khaerulroh25/employee_management_ci4.git
 ```
 
 ### 2. Install Dependencies
